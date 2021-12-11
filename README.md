@@ -20,3 +20,6 @@ Quatro integrantes da Comunidade Data Science (CDS) se reuniram e toparam o desa
 
 ## Link para o projeto final:
 https://github.com/Dimmy-Mess/hackathon-nestle/blob/main/hackathon_nestle/notebooks/C03%20-%20RMK%20-%20Cognatis.ipynb
+
+## Link com os dados classificados conforme o projeto apresentado:
+https://drive.google.com/drive/folders/110N366Z1KPwQRTGTm5zeyx8urT4BXA2e?usp=sharing
